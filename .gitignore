@@ -1,6 +1,7 @@
 TLB.NET/bin
 TLB.NET/obj
 *.suo
-_ReSharper.TLBNETTasks
+*_ReSharper*
 test/obj
 test/bin
+*.Resharper.user
