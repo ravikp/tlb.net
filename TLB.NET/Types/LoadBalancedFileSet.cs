@@ -1,13 +1,8 @@
-using System;
-using System.Collections.Specialized;
-using System.Globalization;
-using System.IO;
-using System.Net;
-using System.Text;
+﻿using System;
 using NAnt.Core.Attributes;
 using NAnt.DotNet.Types;
 
-namespace NAnt.Core.Types
+namespace NAnt.NUnit2.Types
 {
     [ElementName("assemblies")]
     public class LoadBalancedFileSet : AssemblyFileSet

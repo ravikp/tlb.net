@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.IO;
 using System.Net;
 using System.Text;
@@ -28,6 +28,21 @@ namespace NAnt.NUnit2.Tasks
                 return sr.ReadToEnd().Trim();
             }
             throw new NotImplementedException("Bu hao");
+        }
+
+        public object GetSuiteFilesFromIncludes(string[] fileList)
+        {
+            throw new NotImplementedException();
+        }
+
+        public object PostSuiteTimes(string[] fileListWithTimes)
+        {
+            throw new NotImplementedException();
+        }
+
+        public object PostSuiteResults(string[] fileListWithResults)
+        {
+            throw new NotImplementedException();
         }
     }
 }

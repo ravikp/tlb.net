@@ -8,7 +8,7 @@
     <ProjectGuid>{720FC596-EF9F-4C54-9A94-8958CCD8255B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NAnt.NUnit2.Tasks</RootNamespace>
+    <RootNamespace>NAnt.NUnit2</RootNamespace>
     <AssemblyName>TLBNETTasks</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -48,14 +48,15 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BalancerClient.cs" />
-    <Compile Include="LoadBalancedFileSet.cs" />
-    <Compile Include="LoadBalancedInclude.cs" />
-    <Compile Include="LoadBalancedNUnit2TestCollection.cs" />
-    <Compile Include="Nunit2.cs" />
-    <Compile Include="LoadBalancedNUnit2Test.cs" />
-    <Compile Include="TLBNETTask.cs" />
+    <Compile Include="Tasks\BalancerClient.cs" />
+    <Compile Include="Tasks\LoadBalancedNunit2Task.cs" />
+    <Compile Include="Tasks\TLBNETTask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Types\LoadBalancedFileSet.cs" />
+    <Compile Include="Types\LoadBalancedInclude.cs" />
+    <Compile Include="Types\LoadBalancedNUnit2Test.cs" />
+    <Compile Include="Types\LoadBalancedNUnit2TestCollection.cs" />
+    <Compile Include="Types\LoadBalancedNUnit2TestEnumerator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.IO;
@@ -16,7 +16,7 @@ namespace NAnt.NUnit2.Tasks
         {
             NUnit2TestCollection nUnit2TestCollection = base.Tests;
             StringCollection testAssemblyFileNames = nUnit2TestCollection[0].Assemblies.FileNames;
-            var types = new List<String>();
+            var types = new List<string>();
             foreach (var assemblyName in testAssemblyFileNames)
             {
                 var testFile = new FileInfo(assemblyName);

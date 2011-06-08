@@ -1,6 +1,6 @@
 using System;
 using System.IO;
-using NAnt.Core.Types;
+using NAnt.NUnit2.Types;
 using NUnit.Framework;
 
 namespace TLB.NET
