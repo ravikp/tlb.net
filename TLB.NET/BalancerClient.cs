@@ -11,6 +11,7 @@ namespace NAnt.NUnit2.Tasks
 
         public string PostRequestToBalancer(string listOfTestSuites)
         {
+
             var webRequest = (HttpWebRequest)WebRequest.Create(BalancerUrl);
             webRequest.ContentType = "application/x-www-form-urlencoded";
             webRequest.Method = "POST";

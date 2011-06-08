@@ -1,11 +1,17 @@
-﻿using NUnit.Framework;
-using TLBNETTasks;
+﻿using NAnt.NUnit2.Tasks;
+using NUnit.Framework;
 
 namespace TLB.NET
 {
     public class BalancerClientTest
     {
-        private BalancerClient _client = new BalancerClient("10.4.4.74", 3001);
+        private BalancerClient _client;
+
+        [SetUp]
+        public void Setup()
+        {
+            //_client = new BalancerClient("10.4.4.74", 3001);
+        }
 
         [Test]
         public void ShouldReturnAListOfPrunedFilesFromBalancer()
