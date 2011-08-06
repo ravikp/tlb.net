@@ -1,0 +1,5 @@
+c:\Users\ravi\pet\projects\NAnt\build.VS.NET\NAnt.NUnit1\NAnt.NUnit1Tasks.dll
+c:\Users\ravi\pet\projects\NAnt\build.VS.NET\NAnt.NUnit1\NAnt.NUnit1Tasks.pdb
+c:\Users\ravi\pet\projects\NAnt\src\NAnt.NUnit\NUnit1\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\ravi\pet\projects\NAnt\src\NAnt.NUnit\NUnit1\obj\Debug\NAnt.NUnit1Tasks.dll
+c:\Users\ravi\pet\projects\NAnt\src\NAnt.NUnit\NUnit1\obj\Debug\NAnt.NUnit1Tasks.pdb

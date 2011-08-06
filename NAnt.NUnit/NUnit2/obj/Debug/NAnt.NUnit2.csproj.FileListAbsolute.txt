@@ -1,0 +1,2 @@
+c:\Users\ravi\pet\projects\NAnt\src\NAnt.NUnit\NUnit2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ravi\pet\projects\tlb.net\NAnt.NUnit\NUnit2\obj\Debug\ResolveAssemblyReference.cache

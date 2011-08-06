@@ -1,0 +1,12 @@
+c:\Users\ravi\pet\projects\NAnt\build.VS.NET\NAnt.NUnit\NAnt.NUnit.dll
+c:\Users\ravi\pet\projects\NAnt\build.VS.NET\NAnt.NUnit\NAnt.NUnit.pdb
+c:\Users\ravi\pet\projects\NAnt\build.VS.NET\NAnt.NUnit\NAnt.NUnit.xml
+c:\Users\ravi\pet\projects\NAnt\src\NAnt.NUnit\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\ravi\pet\projects\NAnt\src\NAnt.NUnit\obj\Debug\NAnt.NUnit.dll
+c:\Users\ravi\pet\projects\NAnt\src\NAnt.NUnit\obj\Debug\NAnt.NUnit.pdb
+C:\Users\ravi\pet\projects\tlb.net\NAnt.NUnit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ravi\pet\projects\tlb.net\NAnt.NUnit\obj\Debug\NAnt.NUnit.dll
+C:\Users\ravi\pet\projects\tlb.net\NAnt.NUnit\obj\Debug\NAnt.NUnit.pdb
+C:\Users\ravi\pet\projects\build.VS.NET\NAnt.NUnit\NAnt.NUnit.dll
+C:\Users\ravi\pet\projects\build.VS.NET\NAnt.NUnit\NAnt.NUnit.pdb
+C:\Users\ravi\pet\projects\build.VS.NET\NAnt.NUnit\NAnt.NUnit.xml
